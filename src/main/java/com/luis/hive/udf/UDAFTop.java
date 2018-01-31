@@ -24,7 +24,7 @@ import org.apache.hadoop.hive.ql.exec.UDAF;
 import org.apache.hadoop.hive.ql.exec.UDAFEvaluator;
 
 /**
- * Compute (normalized) entropy over a series of values.
+ * 返回int列最大的string列
  *
  */
 public final class UDAFTop extends UDAF {
