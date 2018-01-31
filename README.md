@@ -4,5 +4,5 @@
 mvn package
 # 使用文档
 根目录下 hive-udfs文档.pdf
-
+或者
 https://www.notion.so/HIVE-UDF-52e1bfa9610c45d2b14d02381ffc4963
